@@ -1,6 +1,6 @@
 {
   "name": "big5-chinese-decoder",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Converts Big5-encoded Traditional Chinese bytes into JavaScript strings via a WHATWG-based lookup table.",
   "type": "module",
   "main": "src/index.js",
